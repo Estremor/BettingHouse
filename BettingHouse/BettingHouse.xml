@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BettingHouse</name>
+    </assembly>
+    <members>
+        <member name="T:BettingHouse.Properties.Resources">
+            <summary>
+              Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.ResourceManager">
+            <summary>
+              Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.Culture">
+            <summary>
+              Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+              búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.InvalidAmount">
+            <summary>
+              Busca una cadena traducida similar a El valor apostado debe ser mayor a 1 y menor a 10000.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.InvalidIdRoulette">
+            <summary>
+              Busca una cadena traducida similar a El identificador enviado no es Valido, no existe un registro con el identificador enviado.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.InvalidNumberSelected">
+            <summary>
+              Busca una cadena traducida similar a El numero a apostar debe ser mayor o igual a 0 y menor a 36.
+            </summary>
+        </member>
+        <member name="P:BettingHouse.Properties.Resources.RouletteIsOpen">
+            <summary>
+              Busca una cadena traducida similar a La apuesta Ya se encuentra Activa.
+            </summary>
+        </member>
+    </members>
+</doc>
